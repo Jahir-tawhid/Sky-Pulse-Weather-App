@@ -19,7 +19,7 @@ A modern, responsive weather application built with React and Tailwind CSS that 
 
 ## 🌐 Live Demo
 
-Check out the live application here: [Sky-Pulse Weather App](https://jahir-tawhid.github.io/Sky-Pulse-Weather-App/)
+Check out the live application here: https://jahir-tawhid.github.io/Sky-Pulse-Weather-App/
 
 ## 📦 Getting Started
 
