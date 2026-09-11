@@ -48,8 +48,8 @@ npm run dev
 ```
 📬 Contact & Author:
 ---
-LinkedIn: jahirtawhid
+LinkedIn: www.linkedin.com/in/jahirtawhid
 
-Email: jahirtawhid@gmail.com
+Email: jahirtawhid1988@gmail.com
 
 ⭐ If you like this portfolio, feel free to give this repository a star!
