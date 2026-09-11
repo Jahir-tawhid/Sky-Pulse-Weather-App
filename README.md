@@ -1,16 +1,55 @@
-# React + Vite
+# Sky-Pulse Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive weather application built with React and Tailwind CSS that provides real-time weather updates and conditions using the OpenWeatherMap API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Live Weather Search:** Search current weather details for any city worldwide (supports country codes like `Gazipur, BD` or `Kolkata, IN`).
+- **Geolocation Support:** Automatically detect and fetch weather data for your exact current location.
+- **Real-Time Clock:** Displays live updating date and time.
+- **Interactive Modal:** Clean and user-friendly modal interface for location inputs.
+- **Responsive Design:** Fully styled and optimized using Tailwind CSS.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React.js, Vite
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **API:** OpenWeatherMap API
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Check out the live application here: [Sky-Pulse Weather App](https://jahir-tawhid.github.io/Sky-Pulse-Weather-App/)
+
+## 📦 Getting Started
+
+To run this project locally, follow these simple steps:
+
+ Clone the repository:
+   ```bash
+   git clone [https://github.com/jahir-tawhid/Sky-Pulse-Weather-App.git](https://github.com/jahir-tawhid/Sky-Pulse-Weather-App.git)
+   ```
+1. Navigate to the project directory:
+```
+Bash
+cd Sky-Pulse-Weather-App
+Install dependencies:
+```
+2. Install dependencies:
+```   
+Bash
+npm install
+Run the development server:
+```
+3. Run the development server:
+```
+Bash
+npm run dev
+```
+📬 Contact & Author:
+---
+LinkedIn: jahirtawhid
+
+Email: jahirtawhid@gmail.com
+
+⭐ If you like this portfolio, feel free to give this repository a star!
