@@ -33,13 +33,11 @@ To run this project locally, follow these simple steps:
 ```
 Bash
 cd Sky-Pulse-Weather-App
-Install dependencies:
 ```
 2. Install dependencies:
 ```   
 Bash
 npm install
-Run the development server:
 ```
 3. Run the development server:
 ```
