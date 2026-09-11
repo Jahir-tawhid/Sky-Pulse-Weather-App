@@ -31,7 +31,7 @@ import AboutUs from "./pages/AboutUs";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Sky-Pulse-Weather-App">
       <Routes>
         {/* Define main layout wrapper route */}
         <Route path="/" element={<MainLayout />}>
