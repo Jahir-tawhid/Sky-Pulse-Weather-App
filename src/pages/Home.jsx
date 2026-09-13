@@ -53,7 +53,7 @@ const Home = () => {
     <div className="text-center">
       {/* Website title and description section */}
       <div>
-        <h1 className="text-6xl text-green-500 font-extrabold">
+        <h1 className="text-6xl text-green-200 font-extrabold">
           Sky-Pulse <span className="text-green-500">Weather App</span>
         </h1>
         <p className="py-4 text-md text-red-600">
